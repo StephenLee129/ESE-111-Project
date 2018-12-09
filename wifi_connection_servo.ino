@@ -2,7 +2,7 @@
 #include <ArduinoWiFi.h>
 #include <Servo.h>
 /*
-on your borwser, you type http://<IP>/arduino/webserver/ or http://<hostname>.local/arduino/webserver/
+on your browser, you type http://<IP>/arduino/webserver/ or http://<hostname>.local/arduino/webserver/
 http://www.arduino.org/learning/tutorials/webserverblink
 */
 
